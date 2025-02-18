@@ -1,1 +1,8 @@
 abfs/*
+LTP & IO/*
+.venv*/*
+.ipynb_checkpoints/*
+fpaenv/*
+figures*/
+*.zip
+xlsx*/*
