@@ -41,3 +41,9 @@ The pipeline generates raw data measurements without additional figures. Each me
 
 ## File Types
 The folders may contain both data files and .jpg images. The .jpg files are not used in the analysis process.
+
+## Example Plots
+
+Examples are available in the `samples` folder.
+
+![Sample fEPSP Analysis](samples/io.png)
